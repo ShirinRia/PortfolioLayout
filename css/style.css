@@ -1,0 +1,158 @@
+*,body{
+    margin:0;
+    padding:0;
+}
+.container{
+    width:1140px;
+    margin:0 auto;
+}
+a,a:hover{
+    text-decoration:none;
+}
+.bleft,.bleft-2{
+    background-color:#064663;
+}
+.header{
+    margin-left:10px;
+    margin-top: 10px;
+}
+.header ul li{
+    list-style: none;
+    display:inline-block;
+    margin: 8px 10px;
+    margin-bottom: 30px;
+}
+.header ul li a{
+   color:white;
+}
+.header h3{
+    color: #FFCA03;
+    margin: 8px 10px;
+}
+.bcontent,.bcontent-2{
+    display:flex;
+}
+.bleft{
+    flex-basis: 54%;
+}
+.bleft-2{
+    flex-basis: 50%;
+}
+.bright-2{
+    flex-basis:50%;
+}
+.bright-2 img{
+   width: 100%;
+   height:100%;
+}
+.bright{
+    flex-basis: 46%;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.blmid h5{
+    color: #FFCA03;
+    font-size: 24px;
+}
+.blmid h2{
+    color: white;
+    font-size: 60px;
+}
+.blmid p{
+    color: white;
+}
+.blmid{
+    width: 150px;
+    margin: 61px auto;
+}
+.about{
+    background-color: #F7F7F7;
+    padding-top:64px;
+    /* width: 100%;
+    margin:0 auto; */
+}
+.about h1{
+    color:#064663;
+    text-align: center;
+
+}
+.about p{
+    text-align: center;
+    margin: 24px 64px;
+    padding:15px 20px;
+
+}
+.about button{
+    color:#064663;
+    background-color: #FFCA03;
+    padding:15px 20px;
+    border:none;
+    outline:none;
+   
+}
+.btn{
+    width: 160px;
+    margin:0 auto;
+   padding-bottom: 100px;
+}
+.kijani h2,.photocontnt h2{
+text-align: center;
+font-size:56px;
+color:#064663;
+padding: 100px 0;
+}
+.vdo{
+    height: 500px;
+    background:url(../images/shooting-g2a998a6cf_1920.jpg);
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.play {
+width: 100px;
+margin :0 auto;
+line-height:500px;
+}
+.play span{
+    text-decoration: underline;
+    color:white;
+}
+.play a i{
+    color:white;
+}
+.multiimg{
+    display:flex;
+}
+.multiimg img{
+    max-width: 100%;height:auto;
+}
+.man-1{
+    padding:16px 16px;
+}
+.multiimg{
+    margin:0 32px;
+}
+.man-3 img{
+    height: 298px;
+}
+.info{
+    padding-top :24px;
+}
+.blmid{
+    margin-bottom: 0;
+}
+.banner-2{
+    margin : 64px 0;
+    margin-bottom: 0;
+}
+.footer h4{
+    text-align: center;
+}
+.footer{
+    
+    padding-top: 24px;
+    padding-bottom: 48px ;
+}
